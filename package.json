@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/demianborba/spectrum-dsp#readme",
   "dependencies": {
-    "style-dictionary": "^2.10.2"
+    "style-dictionary": "^3.9.1"
   }
 }
